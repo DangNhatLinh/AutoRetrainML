@@ -1,0 +1,9 @@
+{
+    "metricName": "f1",
+    "minPerf": 0.82,
+    "driftTest": "ks",
+    "pThreshold": 0.01,
+    "currentModel": "models/current.pkl",
+    "features": "data/ref.csv"
+
+}
